@@ -346,7 +346,7 @@ SP
   }
 
   .logo {
-  width :100px;
+  width :200px;
   transition: opacity 0.5s ease; /* 透明度の変化をアニメーション化 */
   }
 
