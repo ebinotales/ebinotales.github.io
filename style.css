@@ -345,6 +345,11 @@ SP
     font-size: 95%;
   }
 
+  .logo {
+  width :200px;
+  transition: opacity 0.5s ease; /* 透明度の変化をアニメーション化 */
+  }
+
   .menu {
     display: none;
   }
