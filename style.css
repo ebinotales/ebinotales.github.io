@@ -353,12 +353,13 @@ SP
     position: absolute;
     top: 40px;
     left: 80%;
+    padding: 0px 1px 0px 1px;
   }
 
   .header-content {
     /* width: 1280px; */
     text-align: left;
-    padding: 1px 1px;
+    /*     padding: 1px 1px; */
     /* transition: transform 0.3s 0.3s; */
   }
 
