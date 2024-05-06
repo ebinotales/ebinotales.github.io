@@ -355,6 +355,13 @@ SP
     left: 75%;
   }
 
+  .mainvisual img {
+  width: 120%;
+  max-width: 1920px;
+  object-fit: cover;
+  height: auto;
+  }
+
   .header-content {
     /* width: 1280px; */
     text-align: left;
