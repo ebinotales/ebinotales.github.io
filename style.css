@@ -17,6 +17,7 @@ a {
 p {
   font-size: 0.8rem;
 }
+
 img {
   max-width: 100%;
 }
@@ -344,6 +345,23 @@ SP
     font-size: 90%;
   }
 
+  .menu {
+    display: none;
+  }
+
+  .icon {
+    position: absolute;
+    top: 40px;
+    left: 80%;
+  }
+
+  .header-content {
+    /* width: 1280px; */
+    text-align: left;
+    padding: 1px 1px;
+    /* transition: transform 0.3s 0.3s; */
+  }
+
   .headline-content ul {
     display: flex;
     flex-wrap: wrap; /* アイテムを折り返すように設定 */
@@ -370,6 +388,11 @@ SP
   .live {
     width: 100%;
     padding-bottom: 30px;
+  }
+
+  .main-content {
+    top: 250px;
+    left: 0px;
   }
 }
 
